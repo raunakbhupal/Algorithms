@@ -1,5 +1,5 @@
 # Python program to count one's in a boolean array 
-
+# python program to count one's in a boolean array.
 # Returns counts of 1's in arr[low..high]. The array is 
 # assumed to be sorted in non-increasing order 
 def countOnes(arr,low,high): 
