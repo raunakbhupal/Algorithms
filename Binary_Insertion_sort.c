@@ -1,3 +1,5 @@
+//updated binary insertion
+
 #include <stdio.h> 
   
 // A binary search based function to find the position 
