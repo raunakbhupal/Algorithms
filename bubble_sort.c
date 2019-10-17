@@ -1,3 +1,4 @@
+//Bubble sort in c
 #include<stdio.h>
 
 void swap(int *a, int *b){
