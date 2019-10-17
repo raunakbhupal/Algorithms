@@ -1,5 +1,6 @@
 #include <stdio.h> 
   
+// Its is binary search tree implemetation.
 // A binary search based function to find the position 
 // where item should be inserted in a[low..high] 
 int binarySearch(int a[], int item, int low, int high) 
