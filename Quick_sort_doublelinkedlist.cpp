@@ -1,3 +1,5 @@
+// Quick sort with double linked in c++   
+
 #include <bits/stdc++.h> 
 using namespace std; 
   
